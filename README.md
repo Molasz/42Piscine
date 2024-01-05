@@ -14,7 +14,7 @@
 - [ex01: find_sh](https://github.com/Molasz/42Piscine/blob/main/S01/ex02/find_sh.sh)
 - [ex02: count_files](https://github.com/Molasz/42Piscine/blob/main/S01/ex03/count_files.sh)
 - [ex04: MAC](https://github.com/Molasz/42Piscine/blob/main/S01/ex04/MAC.sh)
-- [ex05: Can you create it?](https://github.com/Molasz/42Piscine/blob/main/S01/ex05/"\?$*'MaRViN'*$?\")
+- [ex05: Can you create it?](https://github.com/Molasz/42Piscine/blob/main/S01/ex05/%22%5C%3F%24*'MaRViN'*%24%3F%5C%22)
 - [ex06: Skip](https://github.com/Molasz/42Piscine/blob/main/S01/ex06/skip.sh)
 - [ex07: r_dwssap](https://github.com/Molasz/42Piscine/blob/main/S01/ex07/r_dwssap.sh)
 
