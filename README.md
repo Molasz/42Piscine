@@ -1,4 +1,8 @@
 # Table of contents
+All my work during the 42 piscine and some of the next days.
+
+**Don't copy this work**, write your own exercises and learn.
+
 ## [S00](https://github.com/Molasz/42Piscine/tree/main/S00)
 - [ex00: Z](https://github.com/Molasz/42Piscine/blob/main/S00/ex00/z)
 - [ex01: testShell00](https://github.com/Molasz/42Piscine/blob/main/S00/ex01/testShell00.tar)
