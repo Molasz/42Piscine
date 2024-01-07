@@ -1,7 +1,7 @@
 # 42 Piscine
 ### All my work during the 42 piscine and some of the next days.
 
-### **Don't copy this work**, write your own exercises and learn.
+### **Don't copy this work**, write your own exercises.
 
 # Table of contents
 ## [S00](https://github.com/Molasz/42Piscine/tree/main/S00)
